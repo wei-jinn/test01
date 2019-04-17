@@ -7,4 +7,11 @@ Tell me what to do?
 456
 456
 
+<<<<<<< HEAD
 99999999999 HAHA
+=======
+999
+
+i want to try new branch
+this is experimental
+>>>>>>> origin/branch02
